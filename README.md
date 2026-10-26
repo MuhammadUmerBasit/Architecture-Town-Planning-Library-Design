@@ -1,23 +1,22 @@
-# 🏛️ Architecture & Town Planning: Modern Public Library Design & Urban Framework
+# 🏛️ Architecture & Town Planning: Modern Public Library Design & Bahawalpur Urban Transit Framework
 
 ![Library Architectural Design Hero](media/hero-library-render.jpg)
 
 [![AutoCAD](https://img.shields.io/badge/Autodesk-AutoCAD_2021+-0696D7?style=flat&logo=autodesk)](https://www.autodesk.com/products/autocad)
+[![Google My Maps](https://img.shields.io/badge/GIS-Google_My_Maps_Transportation-4285F4?style=flat&logo=google-maps&logoColor=white)](https://www.google.com/maps/d/u/0/edit?hl=en&mid=1oMlt49UhS-NYLDzG9Fp5pk6mVF-oYtBx&ll=29.384851658433774%2C71.68193195000002&z=14)
 [![Course: ARCH-305](https://img.shields.io/badge/Course-ARCH--305_Architecture_%26_Town_Planning-blue.svg)](#)
 [![Field: Urban Planning](https://img.shields.io/badge/Discipline-Urban_Design_%26_Town_Planning-green.svg)](#)
-[![Building Type: Public Library](https://img.shields.io/badge/Building_Type-Modern_Campus_Library-orange.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
 ## 📌 Executive Summary
 
-This repository presents the architectural design, exterior facade articulation, and urban town planning portfolio developed for the **ARCH-305: Architecture and Town Planning** curriculum during Semester 7.
+This repository presents the architectural design, exterior facade articulation, and urban transportation planning portfolio developed by **Muhammad Umer Basit** (Registration No: `259084`, Section C) for the **ARCH-305: Architecture and Town Planning** curriculum.
 
-The capstone architectural project showcases the spatial layout, modern facade treatment, and functional zoning for a **Contemporary Public / Campus Library Facility**. The project incorporates:
-- **Computer-Aided Drafting (CAD)**: Vector floor plans, cross-sections, and facade elevations provided in both native Autodesk AutoCAD (`.dwg`) format and publication vector sheets (`.pdf`).
-- **Urban Town Planning Research**: Comprehensive urban studies on city growth models, zoning bye-laws, street hierarchies, land-use surveys, and Geographic Information Systems (GIS) application.
-- **Academic Coursework**: Original project assignments by **Muhammad Umer Basit** (Student ID: `259084`, Section C) along with the complete 17-module course curriculum.
+The project pairs two foundational urban components:
+1. **Architectural Building Design**: Spatial planning, passive solar design, and modern facade articulation for a **Contemporary Public / Campus Library Facility** in AutoCAD (`.dwg`) and vector print sheets (`.pdf`).
+2. **Urban Transportation & GIS Network Planning**: A comprehensive GIS transit planning project analyzing **Bahawalpur's Main Transportation Routes & Urban Mobility Corridors**, documented through Google My Maps, KML spatial datasets, and automated Python cartographic visualization.
 
 ---
 
@@ -26,42 +25,36 @@ The capstone architectural project showcases the spatial layout, modern facade t
 ![Library Facade Preview](media/library-elevation-preview.jpg)
 
 ### 1. Functional Zoning & Space Planning
-A contemporary library must balance the quiet preservation of physical literature with collaborative public interaction:
-- **Central Atrium & Circulation Hub**: Open multi-height foyer with reception desk, automated book return modules, and immediate orientation sightlines.
-- **Quiet Reading Halls & Individual Carrels**: Positioned along shaded elevations to maximize diffuse northern natural daylight while eliminating direct glare on reading desks.
-- **High-Density Stacks (Book Storage)**: Centralized floor plate loading with floor slabs dimensioned to handle heavy archive dead loads.
-- **Digital Research & Multimedia Lab**: Flexible power and IT networking infrastructure for electronic cataloguing and student workstations.
-- **Administrative Offices & Meeting Rooms**: Dedicated processing rooms, cataloguing offices, archive restoration, and staff break amenities.
+A contemporary library balances quiet literature study with collaborative community engagement:
+- **Central Atrium & Orientation Foyer**: Multi-height entrance lobby providing clear sightlines, automated book return modules, and reception.
+- **Quiet Reading Halls & Individual Carrels**: Positioned along shaded elevations to harness diffuse northern natural daylighting while avoiding direct solar glare.
+- **High-Density Stacks (Book Storage)**: Centralized floor plate loading with heavy dead-load capacity.
+- **Digital Research & Multimedia Lab**: Flexible power distribution and IT network routing for digital catalogs and student workstations.
+- **Administrative & Archive Wings**: Processing rooms, restoration facilities, administrative suites, and staff amenities.
 
 ### 2. Facade Articulation & Passive Climate Strategy
-- **Solar Shading & Vertical Louvers**: Exterior architectural fins engineered to mitigate intense solar heat gain while maintaining daylight penetration into study spaces.
-- **Double-Glazed Curtain Wall**: Insulated glass envelope reducing exterior acoustic transmission and maintaining indoor climate comfort.
-- **Grand Entrance Portal**: Distinct volumetric architectural framing establishing a recognizable public civic identity.
+- **Solar Shading & Vertical Louvers**: Architectural fins designed to mitigate solar heat gain while preserving exterior sightlines.
+- **Double-Glazed Curtain Wall**: Acoustic and thermal insulation protecting quiet study zones from exterior urban traffic noise.
+- **Grand Entrance Canopy**: Distinct volumetric portal giving the building an inviting civic presence.
 
 ---
 
-## 🌆 Town Planning & Urban Design Framework
+## 🗺️ Bahawalpur Urban Transportation & Transit Network Planning
 
-In addition to the standalone library design, this portfolio documents core urban planning principles:
+![Bahawalpur Urban Transportation Map](media/bahawalpur-urban-transit-map.png)
 
-![Urban Planning Study](media/urban-planning-study.jpg)
+> 🌐 **Interactive Map**: Explore the live GIS network on [Google My Maps](https://www.google.com/maps/d/u/0/edit?hl=en&mid=1oMlt49UhS-NYLDzG9Fp5pk6mVF-oYtBx&ll=29.384851658433774%2C71.68193195000002&z=14).
 
-### 1. Urban Land-Use Models & Growth Morphology
-- **Concentric Zone Model (Burgess)**: Radial urban expansion and Central Business District (CBD) transition zones.
-- **Sector Model (Hoyt)**: Transportation-corridor-driven industrial and residential wedge development.
-- **Multiple Nuclei Model (Harris & Ullman)**: Decentralized polycentric urban agglomerations.
-
-### 2. Zoning Regulations & Building Bye-Laws
-- **Setback Distances**: Front, rear, and side setback requirements ensuring fire buffer zones, cross-ventilation, and natural light penetration.
-- **Floor Area Ratio (FAR) & Ground Coverage**: Density control metrics balancing built-up footprint against public green space.
-- **Parking Standards**: Mandatory off-street vehicular bay allocations based on gross floor area and occupant load.
-
-### 3. Street Hierarchies & Circulation
-- Classification of urban thoroughfares from primary arterials and secondary collectors to local residential access streets and dedicated pedestrian networks.
-- Cul-de-sac and gridiron geometry analysis for traffic calming and emergency egress.
-
-### 4. GIS in Urban Planning
-- Application of spatial multi-criteria evaluation (MCE), parcel boundary mapping, buffer analysis, and demographic density projection.
+### Key Transportation Corridors Mapped by Muhammad Umer Basit:
+1. **Railway Station & Core Urban Spine**: Transit loop connecting Bahawalpur Railway Station, Muhajir Colony, Saraiki Chowk, and Fawara Chowk / Khatam-e-Nubuwat Chowk.
+2. **Inter-City Transit Corridor**: Bus terminal route linking Azizabad Colony, Multani Gate (Old City), and Chika Wala Chowk.
+3. **Healthcare & Inter-Regional Hub**: Connecting the National Orthopedic & General Hospital through Kausar Colony and Daewoo Express Terminal to Library Chowk.
+4. **Cantonment & Civic Recreation**: Pelikan Chowk, Deer Reserve Park, and Quaid-e-Azam Avenue.
+5. **Historical & Tourism Corridor**: Pelikan Chowk to the historic Noor Mahal Palace Road.
+6. **Old City Transit & Speedo Feeder**: Connecting Multani Gate, Doctor Raja Road, and the General Transport Service Road.
+7. **Educational Belt Corridor**: Connecting Rangers Public School, Government College of Technology (Hasilpur Road), and University Road (Satellite Town).
+8. **Historic Commercial Core Link**: Route from Government College of Technology to the historic Fareed Gate.
+9. **Administrative & Commercial Axis**: University Chowk, DC Chowk, and Airport Road (Garden Town).
 
 ---
 
@@ -84,6 +77,12 @@ Architecture-Town-Planning-Library-Design/
 │       ├── Final-Library-Architectural-Sheet.pdf
 │       ├── Library-Facade-and-Layout-1.pdf
 │       └── Library-Facade-and-Layout-2.pdf
+│
+├── gis/                                       # GIS Datasets
+│   └── bahawalpur_transportation_planning.kml # Complete Google My Maps KML export
+│
+├── scripts/                                   # Python GIS Visualization
+│   └── generate_gis_map.py                    # Script parsing KML and rendering transit map
 │
 ├── assignments/                               # Coursework assignments by Muhammad Umer Basit
 │   ├── ATP-Assignment-01-by-Muhammad-Umer-Basit-Regn-No-259084-SectionC.pdf
@@ -113,7 +112,7 @@ Architecture-Town-Planning-Library-Design/
 └── media/                                     # High-resolution architectural renders & figures
     ├── hero-library-render.jpg
     ├── library-elevation-preview.jpg
-    └── urban-planning-study.jpg
+    └── bahawalpur-urban-transit-map.png
 ```
 
 ---
@@ -122,15 +121,17 @@ Architecture-Town-Planning-Library-Design/
 
 - **Viewing `.dwg` files**:
   - Full Editing: **Autodesk AutoCAD 2021 or newer**.
-  - Browser Viewing: [Autodesk Viewer (Free online viewer)](https://viewer.autodesk.com/) or **Autodesk DWG TrueView**.
+  - Browser Viewing: [Autodesk Viewer (Free online)](https://viewer.autodesk.com/) or **Autodesk DWG TrueView**.
 - **Viewing `.pdf` sheets**:
   - Open directly in any web browser or through GitHub's native PDF previewer.
+- **Viewing GIS KML**:
+  - Open in **Google Earth**, **QGIS**, or import directly into **Google My Maps**.
 
 ---
 
 ## 👤 Author & Academic Attribution
 
-- **Architectural Designer & Student:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
+- **Architectural Designer & Urban Planner:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
   *Registration No: 259084, Section C*
 - **Course:** ARCH-305 Architecture and Town Planning, Semester 7
 
