@@ -12,7 +12,7 @@
 
 ## 📌 Executive Summary
 
-This repository presents the architectural design, exterior facade articulation, and urban transportation planning portfolio developed by **Muhammad Umer Basit** (Registration No: `259084`, Section C) for the **ARCH-305: Architecture and Town Planning** curriculum.
+This repository presents the architectural design, exterior facade articulation, and urban transportation planning portfolio developed by **Muhammad Umer Basit** (Civil Engineering Student) for the **ARCH-305: Architecture and Town Planning** curriculum.
 
 The project pairs two foundational urban components:
 1. **Architectural Building Design**: Spatial planning, passive solar design, and modern facade articulation for a **Contemporary Public / Campus Library Facility** in AutoCAD (`.dwg`) and vector print sheets (`.pdf`).
@@ -85,9 +85,10 @@ Architecture-Town-Planning-Library-Design/
 │   └── generate_gis_map.py                    # Script parsing KML and rendering transit map
 │
 ├── assignments/                               # Coursework assignments by Muhammad Umer Basit
-│   ├── ATP-Assignment-01-by-Muhammad-Umer-Basit-Regn-No-259084-SectionC.pdf
-│   ├── ATP-Assignment-by-Muhammad-Umer-Basit-259084-Section-C.pdf
-│   └── Muhammad-Umer-Basit-259084-Assignment-ATP-final.pdf
+│   ├── ATP-Assignment-01-by-Muhammad-Umer-Basit.pdf
+│   ├── ATP-Assignment-02-by-Muhammad-Umer-Basit.pdf
+│   ├── ATP-Assignment-03-by-Muhammad-Umer-Basit.pdf
+│   └── Muhammad-Umer-Basit-Assignment-ATP-Final.pdf
 │
 ├── lectures-and-curriculum/                   # Full ARCH-305 course curriculum & lectures
 │   ├── ARCH-305_COURSE_OUTLINE.pdf
@@ -131,8 +132,8 @@ Architecture-Town-Planning-Library-Design/
 
 ## 👤 Author & Academic Attribution
 
-- **Architectural Designer & Urban Planner:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
-  *Registration No: 259084, Section C*
+- **Student / Author:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
+  *Civil Engineering Student*
 - **Course:** ARCH-305 Architecture and Town Planning, Semester 7
 
 ---

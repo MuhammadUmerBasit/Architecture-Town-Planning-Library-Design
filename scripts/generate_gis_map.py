@@ -1,7 +1,7 @@
 """
 Generate High-Resolution GIS Urban Transit Map from KML.
 Project: Bahawalpur Main Transportation Routes & Urban Infrastructure Planning
-Author: Muhammad Umer Basit (Regn No. 259084, Section C)
+Author: Muhammad Umer Basit (Civil Engineering Student)
 """
 
 import os
@@ -85,7 +85,7 @@ for name, x, y in points:
 
 ax.set_title(
     "Bahawalpur Urban Transportation & Transit Network Planning\n"
-    "By: Muhammad Umer Basit (Regn No. 259084, Section C)",
+    "By: Muhammad Umer Basit (Civil Engineering Student)",
     fontsize=14, color="#f8fafc", fontweight="bold", pad=15
 )
 ax.set_xlabel("Longitude (°E)", fontsize=11, color="#94a3b8")
